@@ -29,11 +29,20 @@ Prepare-se para uma aventura emocionante onde cada escolha pode ser a chave para
 
 ## Imagens do Jogo
 
-![ÍNICIO DO JOGO](https://imgur.com/HgLh2K1)
-![MONSTRO DE GRAMA](https://imgur.com/a/TXDVUhG)
-![SALA DE PASSAGEM](URL_da_Imagem)
-![TESOURO](URL_da_Imagem)
-![MORTE](URL_da_Imagem)
+- **Sala de entrada**
+   - ![ÍNICIO DO JOGO](./imagens/sala_entrada.png)
+
+- **Monstro de grama**
+   - ![MONSTRO DE GRAMA](./imagens/monstro_grama.png)
+
+- **Sala de passagem**
+   - ![SALA DE PASSAGEM](./imagens/sala_passagem.png)
+
+- **Tesouro**
+   - ![TESOURO](./imagens/tesouro.png)
+
+- **Morte**
+   - ![MORTE](./imagens/morte.png)
 
 ## Como Jogar
 
@@ -77,10 +86,10 @@ Essa abordagem personalizada na estrutura de dados é fundamental para o sucesso
 ## Autores
 
 - **Luisa Tavares**
-  - [![Luisa Tavares](./imagens/luisa_foto.jpg)](./imagens/luisa_foto.jpg)
+  - [![Luisa Tavares](./imagens/luisa_foto.jpg)
 
 - **Julia Tavares**
-  - [![Julia Tavares](./imagens/julia_foto.jpg)](./imagens/julia_foto.jpg)
+  - [![Julia Tavares](./imagens/julia_foto.jpg)
 
 
 ## Informações Adicionais
@@ -89,4 +98,5 @@ Este jogo foi desenvolvido como projeto principal da matéria de **Algoritmos e 
 Sua finalização ocorreu em **29/01/2024**, marcando a primeira experiência das autoras com o desenvolvimento de jogos.
 
 Tudo foi concebido de forma autoral e original, representando um trabalho árduo que envolveu muitas noites sem dormir. 😄🌙
+o repositório GAME-Me-Salva-Principe disponivel no perfil do GITHUB Asiuly(esse mesmo) mostra os commits do desenvolvimento
 
