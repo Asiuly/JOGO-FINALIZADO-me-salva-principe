@@ -86,10 +86,10 @@ Essa abordagem personalizada na estrutura de dados é fundamental para o sucesso
 ## Autores
 
 - **Luisa Tavares**
-  - [![Luisa Tavares](./imagens/luisa_foto.jpg)
+  - [![Luisa Tavares](./imagens/luisa_foto.jpeg)
 
 - **Julia Tavares**
-  - [![Julia Tavares](./imagens/julia_foto.jpg)
+  - [![Julia Tavares](./imagens/julia_foto.jpeg)
 
 
 ## Informações Adicionais
