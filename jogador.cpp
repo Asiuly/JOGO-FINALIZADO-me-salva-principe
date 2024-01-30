@@ -70,7 +70,7 @@ bool Jogador:: batalhar(Monstro monstro1, string opcaoCenarioBatalha){
 
 void Jogador:: executarMorte(){
     getCenarioAtual()->exibirMorte();
-    cout << "\n============================================================================================================\nO jogo acabou, voce perdeu! Suas vidas acabaram não há mais chances para você, aqui esta seu legado:\n============================================================================================================\n" << endl;
+    cout << "\n============================================================================================================\nO jogo acabou, voce perdeu! Suas vidas acabaram nao ha mais chances para voce, aqui esta seu legado:\n============================================================================================================\n" << endl;
     vidas = 0;
     exibirMedalhasAcessorios();
 }
@@ -192,7 +192,7 @@ void Jogador:: exibirMedalhasAcessorios() const{
         cout << "acessorios: 0" << endl;
     }
     else{
-        cout << "ACESSÓRIOS" << endl;
+        cout << "ACESSORIOS" << endl;
         for(int i=0; i<acessorios.size(); i++){
             cout << "UMA TIARA DA COR " << acessorios[i].cor << endl;
         }

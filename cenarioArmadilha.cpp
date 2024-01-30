@@ -9,7 +9,7 @@ void CenarioArmadilha:: exibirGrafico() const{
     cout <<
         " _____________________________________________________\n"
         "|                                                       |\n"
-        "|      OH NÃO, UMA ARMADILHA!! :( -1 VIDA, CONTINUE     |\n"
+        "|      OH NAOO, UMA ARMADILHA!! :( -1 VIDA, CONTINUE    |\n"
         "|                                                       |\n"
         "|                         _.-'                          |\n"
         "|         _____________.-'________________________.     |\n"

@@ -34,13 +34,13 @@ string CenarioBau:: addBau(string escolhaDoJogador, Jogador &player, int* result
         else if(numeroSorteado==2){
             string cor = "azul";
             player.addAcessorio(cor);
-            return "\n============================================================================================================\nUau! Que acessorio lindo! Com certeza a princesa ira gostar! Voce acaba de achar uma tiara azul\nPodera ve-la na princesa se chegar ao topo da masmorra!\n============================================================================================================\n";
+            return "\n============================================================================================================\nUau! Que acessorio lindo! Com certeza a princesa ira gostar! Voce acaba de achar uma TIARA AZUL\nPodera ve-la na princesa se chegar ao topo da masmorra!\n============================================================================================================\n";
         }
         //acessório rosa
         else if(numeroSorteado == 3){
             string cor = "rosa";
             player.addAcessorio(cor);
-            return "\n============================================================================================================\nUau! Que acessorio lindo! Com certeza a princesa ira gostar! Voce acaba de achar uma tiara rosa\nPodera ve-la na princesa se chegar ao topo da masmorra!\n============================================================================================================\n";
+            return "\n============================================================================================================\nUau! Que acessorio lindo! Com certeza a princesa ira gostar! Voce acaba de achar uma TIARA ROSA\nPodera ve-la na princesa se chegar ao topo da masmorra!\n============================================================================================================\n";
         }
         //medalha de um elemento aleatório
         else if(numeroSorteado==4){
@@ -59,8 +59,8 @@ string CenarioBau:: addBau(string escolhaDoJogador, Jogador &player, int* result
 
 void CenarioBau:: exibirGrafico() const{
     cout <<
-        " _________________________________________\n"
-        "/                                         \\\n"
+        " __________________________________________\n"
+        "/                                          \\\n"
         "|               Sala do Tesouro             |\n"
         "|                                           |\n"
         "|          ____...------------...____       |\n"
@@ -73,8 +73,8 @@ void CenarioBau:: exibirGrafico() const{
         "|   |===\\!/========================\\!/===|  |\n"
         "|   |   |=|          .---.         |=|   |  |\n"
         "|   |===|o|=========/     \\========|o|===|  |\n"
-        "|   |   | |         \\() ()/        | |   |  |\n"
-        "|   |===|o|======{'-.) A (.-'}=====|o|===|  |\n"
+        "|   |   | |         \\() ()/        | |   |   |\n"
+        "|   |===|o|======{'-.) A (.-'}=====|o|===|   |\n"
         "|   | __/ \\__     '-. uuu/.-'    __/ \\__ |  |\n"
         "|   |        |==== .'.'^'.'.====|        |  |\n"
         "|   |  _\\o/   __  {.' __  '.} _   _\\o/  _|  |\n"
@@ -90,7 +90,7 @@ void CenarioBau:: exibirBauAberto() const{
     cout <<
         " _________________________________________\n"
         "/                                         \\\n"
-        "|              BAÚ ABERTO!!               |\n"
+        "|              BAU ABERTO!!               |\n"
         "|                                         |\n"
         "|               __________                |\n"
         "|              /\\____;;___\\               |\n"

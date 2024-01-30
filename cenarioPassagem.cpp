@@ -12,7 +12,7 @@ void CenarioPassagem:: exibirGrafico() const{
     cout <<
         " ______________________________________________ \n"
         "/                                              \\\n"
-        "|           SALA DE PASSAGEM                    |\n"
+        "|                SALA DE PASSAGEM               |\n"
         "|                                               |\n"
         "|         ______                 ______         |\n"
         "|      ,-' ;  ! `-.           ,-' ;  ! `-.      |\n"
